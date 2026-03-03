@@ -1,5 +1,7 @@
 # The MIR Constitution
 
+**Memory Infrastructure Registry**
+
 **A public statement of principles for portable participation history.**
 
 *First published: December 21, 2025*
@@ -9,7 +11,7 @@
 
 ## Introduction
 
-MIR (My Internet Reputation) is built on a simple idea:
+MIR (Memory Infrastructure Registry) is built on a simple idea:
 
 **Participation history should be able to move with people—without exposing who they are.**
 
