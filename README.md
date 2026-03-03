@@ -91,65 +91,166 @@ History tiers (such as none, limited, or established) describe whether history e
 ---
 
 ## Platform Autonomy
+  Memory Infrastructure Registry                                                              
+   
+  A public statement of principles for portable participation history.                        
+                  
+  First published: December 21, 2025
+  Last modified: March 2, 2026
+  Version: 1.1
+  Canonical source: myinternetreputation.org/constitution
 
-*MIR does not tell platforms what to do.*
+  ---
+  Introduction
 
-Each platform decides:
+  MIR (Memory Infrastructure Registry) is built on a simple idea:
 
-- How to interpret MIR signals
-- When to use them
-- What actions, if any, to take
+  Participation history should be able to move with people — without exposing who they are.
 
-MIR provides shared context while respecting local rules, policies, and values.
+  This document explains the principles that guide how MIR is designed, operated, and
+  protected over time.
 
----
+  ---
+  Our Purpose
 
-## Growth With Care
+  MIR exists to restore continuity to the internet.
 
-*MIR is designed to grow slowly and deliberately.*
+  When people move between platforms, their history usually resets to zero. MIR provides a
+  neutral way for platforms to learn whether a participant has existing history elsewhere —
+  without revealing identity or personal details.
 
-Correct use matters more than rapid adoption.
-A small number of aligned partners is better than broad misuse.
+  MIR answers one question only: Does this participant have history elsewhere?
 
-**Trust compounds over time.**
+  It does not answer who someone is, why they act, or what should be done about them.
 
----
+  ---
+  What MIR Is — and Is Not
 
-## An Explicit Boundary
+  MIR is a portable participation history layer.
 
-*MIR is voluntary.*
+  MIR is not:
+  - A trust score
+  - A credit score
+  - A fraud detection system
+  - An identity provider
+  - A profiling or surveillance tool
+  - A decision engine
 
-> **If MIR were ever to become:**
-> - Mandatory to participate online
-> - A universal score
-> - A hidden gatekeeper
-> - A binding identity system
->
-> **It would no longer align with its purpose.**
+  MIR provides context, not conclusions. Decisions always remain with the platforms that use
+  it.
 
-A neutral, opt-in history layer is ethical.
-A coercive one is not.
+  ---
+  Neutrality by Design
 
----
+  Neutrality is not a marketing position — it is a design constraint.
 
-## In Closing
+  MIR is intentionally:
+  - Non-judgmental — We do not rate people
+  - Non-authoritative — We do not dictate outcomes
+  - Non-competitive — We do not compete with partners
+  - Non-extractive — We do not monetize user data
 
-**MIR does not try to fix people.**
-**It fixes a missing layer of the internet.**
+  MIR does not rate, rank, or label people. It exists to preserve history without ownership.
 
-By restoring continuity without surveillance, MIR helps platforms make better decisions—while respecting the people behind them.
+  ---
+  Privacy First, Always
 
----
+  MIR is built to minimize data exposure.
 
-## About This Document
+  - MIR does not expose names, emails, or real-world identity
+  - MIR does not share personal details between platforms
+  - MIR does not track behavior outside of explicitly submitted participation events
 
-This constitution is maintained by [phpMyDEV, LLC](https://phpmydev.com), the organization behind MIR.
+  Users choose whether to link their participation history across platforms. Opt-in is
+  fundamental to how MIR works.
 
-- **Website:** [myinternetreputation.org](https://myinternetreputation.org)
-- **Contact:** [partners@myinternetreputation.org](mailto:partners@myinternetreputation.org)
+  ---
+  History, Not Judgment
 
-This document is versioned and changes are tracked publicly in this repository.
+  MIR history indicates presence of participation, not quality or character.
 
----
+  History tiers (such as none, limited, or established) describe whether history exists — not
+  whether someone is good, bad, trusted, or risky.
+
+  Silence (no history) is not guilt. History is context, not destiny.
+
+  ---
+  Platform Autonomy
+
+  MIR does not tell platforms what to do.
+
+  Each platform decides:
+  - How to interpret MIR signals
+  - When to use them
+  - What actions, if any, to take
+
+  MIR provides shared context while respecting local rules, policies, and values.
+
+  ---
+  What MIR Will Never Do
+
+  These commitments exist to prevent mission drift.
+
+  1. MIR will never interpret continuity as an indicator of safety, trustworthiness, or moral
+  character.
+  2. MIR will never provide decision templates, recommended actions, or suggested outcomes
+  based on participation history.
+  3. MIR will never aggregate signals into a single score, grade, or rating.
+  4. MIR will never sell, license, or share individual participation data with third parties
+  outside the partner network.
+  5. MIR will never become an enforcement mechanism or gatekeeper for access to platforms,
+  services, or opportunities.
+  6. MIR will never use moral or character-based language to describe tiers, signals, or
+  history levels.
+  7. MIR will never require identity verification as a condition of participation history
+  portability.
+  8. MIR will never retroactively change how existing history is interpreted or weighted
+  without public notice and constitutional justification.
+  9. MIR will never operate in secret — governance changes, constitutional amendments, and
+  structural decisions will be tracked publicly.
+
+  ---
+  Growth With Care
+
+  MIR is designed to grow slowly and deliberately.
+
+  Correct use matters more than rapid adoption. A small number of aligned partners is better
+  than broad misuse.
+
+  Trust compounds over time.
+
+  ---
+  An Explicit Boundary
+
+  MIR is voluntary.
+
+  If MIR were ever to become:
+  - Mandatory to participate online
+  - A universal score
+  - A hidden gatekeeper
+  - A binding identity system
+
+  It would no longer align with its purpose.
+
+  A neutral, opt-in history layer is ethical. A coercive one is not.
+
+  ---
+  In Closing
+
+  MIR does not try to fix people. It fixes a missing layer of the internet.
+
+  By restoring continuity without surveillance, MIR helps platforms make better decisions —
+  while respecting the people behind them.
+
+  ---
+  About This Document
+
+  This constitution is maintained by phpMyDEV, LLC, the organization behind MIR.
+
+  - Website: myinternetreputation.org
+  - Contact: partners@myinternetreputation.org
+
+  This document is versioned and changes are tracked publicly in this repository.
+
 
 *Copyright 2025-2026 phpMyDEV, LLC. All rights reserved.*
