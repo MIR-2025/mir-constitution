@@ -57,9 +57,9 @@ People carry their participation history across platforms. Linking is voluntary;
 
 ### Enterprise mode
 
-Organizations track participation history for the entities they are responsible for: employees, contractors, AI agents, service accounts, and other internal systems. Tracking is operationally mandatory because the organization carries the accountability for those entities. Subject-level data stays within the organization's scope.
+Organizations record participation history for the entities they are responsible for: employees, contractors, AI agents, service accounts, and other internal systems. Recording is operationally mandatory because the organization carries the accountability for those entities. Subject-level data stays within the organization's scope.
 
-Both modes share the same architecture: deterministic tier calculations, hashed external identifiers, claim-attribution rules, and the constitutional commitments below. The principles apply equally to both. What differs is who is doing the tracking and on whose behalf.
+Both modes share the same architecture: deterministic tier calculations, hashed external identifiers, claim-attribution rules, and the constitutional commitments below. The principles apply equally to both. What differs is who is doing the recording and on whose behalf.
 
 Within enterprise mode, an exception applies: religious organizations, charities, and similar institutions where membership is voluntary may use a participation-optional configuration that preserves an individual's right to decline participation while remaining a member.
 
@@ -87,11 +87,11 @@ It exists to preserve history without ownership.
 
 - MIR does not expose subject-level identity across organizational boundaries; partner-submitted external identifiers are SHA-256 hashed before storage
 - MIR does not share subject-level personal details between platforms or between enterprise organizations; in enterprise mode, an organization's entity data stays within that organization's scope
-- MIR does not track behavior outside of explicitly submitted participation events
+- MIR does not record behavior outside of explicitly submitted participation events
 - MIR does hold operational personal data: email addresses for account holders who log in to MIR (used for authentication and account notifications) and partner administrative contacts (used for billing and account management). These are governed by the Data Processing Agreement.
 
 In marketplace mode, users choose whether to link their participation history across platforms.
-**Voluntary linking is fundamental to how MIR works in marketplace mode. Enterprise mode operates under organizational accountability for the entities being tracked.**
+**Voluntary linking is fundamental to how MIR works in marketplace mode. Enterprise mode operates under organizational accountability for the entities being recorded.**
 
 ---
 
@@ -186,11 +186,27 @@ This constitution was first published on December 21, 2025, formalizing the answ
 
 The answer: a neutral, portable participation history layer that restores continuity without surveillance.
 
-Version 1.2 (May 2, 2026) extends the constitutional commitments to enterprise mode, reflecting the operational shape of organizations tracking the entities they are responsible for. Enterprise mode work began in January 2026; this update brings the document into alignment with that scope.
+Version 1.2 (May 2, 2026) extends the constitutional commitments to enterprise mode, reflecting the operational shape of organizations recording the entities they are responsible for. Enterprise mode work began in January 2026; this update brings the document into alignment with that scope.
 
 A versioned archive of this document is maintained at [github.com/MIR-2025/mir-constitution](https://github.com/MIR-2025/mir-constitution).
 
 For the meaning of the name MIR, see [What MIR Means](https://mirregistry.org/mir).
+
+---
+
+## Maintained by
+
+**MIRegistry, L.L.C.** -- Phoenix, Arizona, USA
+
+**Website:**
+
+- [mirregistry.org](https://mirregistry.org) -- marketplace and consumer site (individuals carrying their own participation history across platforms)
+- [mirregistry.com](https://mirregistry.com) -- enterprise site (organizations recording participation history for the entities they are responsible for)
+
+**Contact:**
+
+- [hello@mirregistry.org](mailto:hello@mirregistry.org) -- marketplace and individual inquiries
+- [partners@mirregistry.com](mailto:partners@mirregistry.com) -- enterprise and partner inquiries
 
 ---
 
